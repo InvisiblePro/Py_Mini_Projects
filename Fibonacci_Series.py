@@ -1,3 +1,4 @@
+# This is a Basic Python Fibonacci Series Project
 a=int(input("Enter a number : "))
 x = 0
 y = 1
