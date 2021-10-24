@@ -1,4 +1,5 @@
 # Py_Mini_Projects
+[![](https://img.shields.io/badge/language-Python-blue)](https://www.python.org/)
 
 ### This Repositiory Contains some of the basic Python Programs For Beginners.
 
