@@ -1,5 +1,4 @@
-# Py_Mini_Projects
-[![](https://img.shields.io/badge/Language-Python-blue?logo=python)](https://www.python.org/)
+# Py_Mini_Projects  [![](https://img.shields.io/badge/Language-Python-blue?logo=python)](https://www.python.org/)
 
 ### This Repository Contains some of the basic Python Programs For Beginners.
 
