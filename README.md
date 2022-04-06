@@ -1,8 +1,7 @@
 # Py_Mini_Projects  [![](https://img.shields.io/badge/Language-Python-blue?logo=python)](https://www.python.org/)
 
-### _This Repository Contains some of the basic Python Programs For Beginners._
+### _This Repository Contains some of the basic Python Programs For Beginners.
 
-#### Requirements:
 
 - 2 Player Pong game -- `pip install pygame`
 - Fibonacci Series
