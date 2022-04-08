@@ -18,4 +18,4 @@
 
 <hr>
 
-[![](https://img.shields.io/badge/GitHub-InvisiblePro-blue?logo=github)](https://github.com/InvisiblePro)  [![](https://img.shields.io/badge/Contributer-Idhant--6-lightblue?logo=github)](https://github.com/Idhant-6)
+[<img src="https://img.shields.io/badge/GitHub-InvisiblePro-blue?logo=github&style=for-the-badge" alt="InvisiblePro">](https://github.com/InvisiblePro)  [![](https://img.shields.io/badge/Contributer-Idhant--6-lightblue?logo=github&style=for-the-badge)](https://github.com/Idhant-6)
