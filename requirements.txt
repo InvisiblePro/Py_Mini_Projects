@@ -1,0 +1,5 @@
+folium
+geopy
+pygame
+opencv-python
+qrcode

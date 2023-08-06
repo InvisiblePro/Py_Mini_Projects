@@ -1,6 +1,6 @@
 # Py_Mini_Projects  [![](https://img.shields.io/badge/Language-Python-blue?logo=python&style=for-the-badge)](https://www.python.org/)
 
-### _This Repository Contains some of the basic Python Programs For Beginners._
+### _This Repository Contains some of the basic Python Programs For Beginners._ Install all required modules through `pip install -r requiremts.txt`
 
 
 - Aerial Distance Calculator -- `pip install folium geopy`
