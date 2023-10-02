@@ -1,5 +1,4 @@
-# Py_Mini_Projects  [![](https://img.shields.io/badge/Language-Python-blue?logo=python&style=for-the-badge)](https://www.python.org/)
-
+# Py_Mini_Projects  
 ### _This Repository Contains some of the basic Python Programs For Beginners._ Install all required modules through `pip install -r requiremts.txt`
 
 
@@ -21,4 +20,15 @@
 
 <hr>
 
-[<img src="https://img.shields.io/badge/GitHub-InvisiblePro-blue?logo=github&style=for-the-badge" alt="InvisiblePro">](https://github.com/InvisiblePro)  [![](https://img.shields.io/badge/Contributer-Idhant--6-lightblue?logo=github&style=for-the-badge)](https://github.com/Idhant-6)
+## Hacktoberfest 2023
+#### We are gladly announcing that this Project is part of Hacktoberfest 2023, celebrating its 10th anniversary
+<img src="https://hacktoberfest.com/_next/static/media/opengraph.e5fafe07.png" width=500 height="225"/>
+
+## Contributors will be Appreciated ✨
+
+
+![Static Badge](https://img.shields.io/badge/Language-Python-blue?logo=python)
+![Static Badge](https://img.shields.io/badge/Hacktoberfest--Accpeted-cyan)
+<br>
+![Static Badge](https://img.shields.io/badge/Owner-InvisiblePro-purple?logo=github)
+![Static Badge](https://img.shields.io/badge/Contributer-Idhant--6-lightblue?logo=github)
