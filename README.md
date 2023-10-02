@@ -31,5 +31,6 @@
 ![Static Badge](https://img.shields.io/badge/Hacktoberfest--Accepted-cyan)
 
 <br>
+
 ![Static Badge](https://img.shields.io/badge/Owner-InvisiblePro-purple?logo=github)
 ![Static Badge](https://img.shields.io/badge/Contributer-Idhant--6-lightblue?logo=github)
