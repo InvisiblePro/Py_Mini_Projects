@@ -28,7 +28,8 @@
 
 
 ![Static Badge](https://img.shields.io/badge/Language-Python-blue?logo=python)
-![Static Badge](https://img.shields.io/badge/Hacktoberfest--Accpeted-cyan)
+![Static Badge](https://img.shields.io/badge/Hacktoberfest--Accepted-cyan)
+
 <br>
 ![Static Badge](https://img.shields.io/badge/Owner-InvisiblePro-purple?logo=github)
 ![Static Badge](https://img.shields.io/badge/Contributer-Idhant--6-lightblue?logo=github)
