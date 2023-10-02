@@ -1,4 +1,20 @@
 # Py_Mini_Projects  
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Hacktoberfest-2023-blue" alt="Hacktober Badge"/>
+ <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If you like it&color=800080" alt="Star"/>
+ <a href="https://github.com/InvisiblePro/" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?logo=github" alt="Contributions" /></a>
+ <a href="https://github.com/InvisiblePro/" ><img src="https://img.shields.io/badge/Hacktoberfest--Accepted-blue" alt="HF2k23" /></a>
+ 
+ 
+ <a href="https://github.com/InvisiblePro/Py_Mini_Projects/graphs/contributors">
+ <img alt="GitHub Gontributors" src="https://img.shields.io/github/contributors/InvisiblePro/Py_Mini_Projects?color=00008b"></a>
+ <a href="https://github.com/InvisiblePro/Py_Mini_Projects/blob/master/LICENSE"><img src="https://img.shields.io/github/license/InvisiblePro/Py_Mini_Projects?color=00bfff" alt="License Badge"/></a>
+
+</div>
+
+
 ### _This Repository Contains some of the basic Python Programs For Beginners._ Install all required modules through `pip install -r requiremts.txt`
 
 
