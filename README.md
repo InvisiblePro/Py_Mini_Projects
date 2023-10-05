@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/Hacktoberfest-2023-blue" alt="Hacktober Badge"/>
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If you like it&color=800080" alt="Star"/>
- <a href="https://github.com/InvisiblePro/" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?logo=github" alt="Contributions" /></a>
+ <a href="https://github.com/InvisiblePro/" ><img src="https://img.shields.io/badge/Contributions-Welcome-violet.svg?logo=github" alt="Contributions" /></a>
  <a href="https://github.com/InvisiblePro/" ><img src="https://img.shields.io/badge/Hacktoberfest--Accepted-blue" alt="HF2k23" /></a>
  
  
