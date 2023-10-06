@@ -30,6 +30,7 @@
 - Camera -- `pip install opencv-python`
 - BMI Calculator
 - QR Code generator -- `pip install qrcode`
+- Number Guessing Cli Game -- `pip install rich`
 
 ### *TOOLS and LANGUAGES* 
 
