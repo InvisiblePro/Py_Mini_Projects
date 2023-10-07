@@ -11,6 +11,8 @@
  <a href="https://github.com/InvisiblePro/Py_Mini_Projects/graphs/contributors">
  <img alt="GitHub Gontributors" src="https://img.shields.io/github/contributors/InvisiblePro/Py_Mini_Projects?color=00008b"></a>
  <a href="https://github.com/InvisiblePro/Py_Mini_Projects/blob/master/LICENSE"><img src="https://img.shields.io/github/license/InvisiblePro/Py_Mini_Projects?color=00bfff" alt="License Badge"/></a>
+ 
+[![CodeQL](https://github.com/InvisiblePro/Py_Mini_Projects/actions/workflows/codeql.yml/badge.svg)](https://github.com/InvisiblePro/Py_Mini_Projects/actions/workflows/codeql.yml)
 
 </div>
 
